@@ -1,6 +1,2 @@
-Creating a new branch is quick feature.
 Git is a version control system.
-Git is a free software.
-Creating a new branch is quikc AND simple master.
-This is a new file.
-Windows file.
+Git is free software.
